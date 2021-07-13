@@ -1,13 +1,13 @@
-Fundamentos do NodeJs
+# _Fundamentos do NodeJs_
 
-Aulas:
-* Conceitos
+## Aulas:
+### Conceitos
 - Introdução
 - Conceitos do Node
 - Conceitos sobre API Rest
 - Métodos de Requisição
 
-* Configurando o projeto
+### Configurando o projeto
 - Criando a estrutura do projeto
 - Adicionando o Nodemon na aplicação
 - Utilizando os métodos HTTP
