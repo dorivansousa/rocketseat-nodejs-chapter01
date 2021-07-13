@@ -5,7 +5,13 @@
   "repository": "https://github.com/dorivansousa/rocketseat-nodejs-chapter01.git",
   "author": "Dorivan Sousa <dorivansousa@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }
